@@ -1,0 +1,2 @@
+# .merlinSecureToolkit
+Improved Registry
